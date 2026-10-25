@@ -1,1 +1,12 @@
-[]
+[[
+  {
+    "id": "mvnt0fje",
+    "coin": "BTC",
+    "type": "trail",
+    "dir": "below",
+    "value": 5,
+    "ref": 5106940.237065975,
+    "note": "",
+    "active": true
+  }
+]
